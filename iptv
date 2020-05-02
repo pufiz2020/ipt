@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1, ANTENA STARS HD
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2419
+#EXTINF:-1, ANTENA 3
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2420
+#EXTINF:-1, Antena 1
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2421
+#EXTINF:-1, Antena 1 FHD
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2489
+#EXTINF:-1, ProTV
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2373
+#EXTINF:-1, PRO TV
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2462
+#EXTINF:-1, PRO TV HD
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2463
+#EXTINF:-1, Kanal D
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2389
+#EXTINF:-1, Prima TV
+http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2377
 #EXTINF:-1, Digi Sport 1
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2407
 #EXTINF:-1, Digi Sport 2
@@ -27,12 +45,6 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2416
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2417
 #EXTINF:-1, AXN
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2418
-#EXTINF:-1, ANTENA STARS HD
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2419
-#EXTINF:-1, ANTENA 3
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2420
-#EXTINF:-1, Antena 1
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2421
 #EXTINF:-1, AGRO TV
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2422
 #EXTINF:-1, ACASA TV
@@ -73,16 +85,12 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2369
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2370
 #EXTINF:-1, Realitatea Tv
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2372
-#EXTINF:-1, ProTV
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2373
 #EXTINF:-1, Pro Cinema
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2374
 #EXTINF:-1, Prima Love
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2375
 #EXTINF:-1, prima cool
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2376
-#EXTINF:-1, Prima TV
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2377
 #EXTINF:-1, Paramount Channel
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2378
 #EXTINF:-1, Neptun
@@ -103,8 +111,6 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2386
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2387
 #EXTINF:-1, JimJam
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2388
-#EXTINF:-1, Kanal D
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2389
 #EXTINF:-1, Hit Music Channel
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2390
 #EXTINF:-1, History
@@ -195,10 +201,6 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2459
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2460
 #EXTINF:-1, PRO GOLD
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2461
-#EXTINF:-1, PRO TV
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2462
-#EXTINF:-1, PRO TV HD
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2463
 #EXTINF:-1, PRO X
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2464
 #EXTINF:-1, Somax Tv
@@ -247,8 +249,6 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2486
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2487
 #EXTINF:-1, Telestar1
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2488
-#EXTINF:-1, Antena 1 FHD
-http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2489
 #EXTINF:-1, TV 1000 HD
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2490
 #EXTINF:-1, TVR Cluj
@@ -287,3 +287,247 @@ http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2507
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2508
 #EXTINF:-1, PRO TV International
 http://iptv.xtreamiptv.net:8080/0ZTmKn2TSx/dSpI0Qf4jW/2509
+#EXTINF:-1,Balkan Erotic Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13590
+#EXTINF:-1,Barely Legal Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13571
+#EXTINF:-1,Beate-Uhse.TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/19550
+#EXTINF:-1,Bizarre TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13572
+#EXTINF:-1,Brazzers TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13585
+#EXTINF:-1,CentoXCento Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13588
+#EXTINF:-1,Dorcel TV FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13587
+#EXTINF:-1,Dusk Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13586
+#EXTINF:-1,Erox TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13570
+#EXTINF:-1,Eroxxx TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13569
+#EXTINF:-1,Evil Angel Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13584
+#EXTINF:-1,HotClub 1 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13561
+#EXTINF:-1,HotClub 2 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13560
+#EXTINF:-1,HotClub 3 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13559
+#EXTINF:-1,HotClub 4 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13558
+#EXTINF:-1,HotClub 5 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13557
+#EXTINF:-1,HotClub 6 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13556
+#EXTINF:-1,HotClub 7 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13555
+#EXTINF:-1,HotClub 8 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13554
+#EXTINF:-1,HotClub 9 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13553
+#EXTINF:-1,Hustler TV FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13583
+#EXTINF:-1,Jasmin.tv Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13568
+#EXTINF:-1,Max XXX 1 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13602
+#EXTINF:-1,Meiden Van Holland Hard Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13562
+#EXTINF:-1,Movies Cinema Erotic 1 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13595
+#EXTINF:-1,Movies Cinema Erotic 2 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13594
+#EXTINF:-1,Movies Cinema Erotic 3 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13593
+#EXTINF:-1,Movies Cinema Erotic 4 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13592
+#EXTINF:-1,Movies Cinema Erotic 5 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13591
+#EXTINF:-1,PassieXXX Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13589
+#EXTINF:-1,Penthouse 1 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13581
+#EXTINF:-1,Penthouse 2 FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13580
+#EXTINF:-1,Penthouse Gold FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13582
+#EXTINF:-1,Pink Erotic 1 Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13601
+#EXTINF:-1,Pink Erotic 2 Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13600
+#EXTINF:-1,Pink Erotic 3 Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13599
+#EXTINF:-1,Pink Erotic 4 Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13598
+#EXTINF:-1,Pink Erotic 5 Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13597
+#EXTINF:-1,Pink Erotic 6 Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13596
+#EXTINF:-1,Pinko TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13579
+#EXTINF:-1,PlayBoy Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13578
+#EXTINF:-1,Private HD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13577
+#EXTINF:-1,HOT FHD PT ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/74250
+#EXTINF:-1,RedTraffic Teen HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/74249
+#EXTINF:-1,Q Premium XXX 3 FHD AL ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/74248
+#EXTINF:-1,Reality Kings TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13567
+#EXTINF:-1,Redlight FHD ADult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13576
+#EXTINF:-1,SCT Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13575
+#EXTINF:-1,Sesto Senso TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13574
+#EXTINF:-1,Venus TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13573
+#EXTINF:-1,Vivid Red FHD Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13565
+#EXTINF:-1,Vivid TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13566
+#EXTINF:-1,XXL TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13564
+#EXTINF:-1,XYPlus HD TV Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/13563
+#EXTINF:-1,SEXTREME Adult
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78412
+#EXTINF:-1,Blue Hustler ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78666
+#EXTINF:-1,TINY4K 1 FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78685
+#EXTINF:-1,TINY4K 2 FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78686
+#EXTINF:-1,TINY4K 3 FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78687
+#EXTINF:-1,TINY4K 4 FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78688
+#EXTINF:-1,TINY4K 5 FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78689
+#EXTINF:-1,TINY4K 6 FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78690
+#EXTINF:-1,TINY4K 7 FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78691
+#EXTINF:-1,TINY4K 8 FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78692
+#EXTINF:-1,TINY4K 9 FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78693
+#EXTINF:-1,TINY4K 10 FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78694
+#EXTINF:-1,TINY4K 11 FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78695
+#EXTINF:-1,Penthouse BLACK HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78696
+#EXTINF:-1,X1-Bizarre HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78697
+#EXTINF:-1,SINFULLXXX 01 ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78698
+#EXTINF:-1,SINFULLXXX 02 ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78699
+#EXTINF:-1,ALBA XXX 1 ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78700
+#EXTINF:-1,ALBA XXX 2 ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78701
+#EXTINF:-1,ALBA XXX 3 ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78702
+#EXTINF:-1,ALBA XXX 4 ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78703
+#EXTINF:-1,ALBA XXX 5 ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78704
+#EXTINF:-1,ALBA XXX 6 ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78705
+#EXTINF:-1,MY DIRTY HOBBY 1 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78706
+#EXTINF:-1,MY DIRTY HOBBY 2 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78707
+#EXTINF:-1,MY DIRTY HOBBY 3 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78708
+#EXTINF:-1,MY DIRTY HOBBY 4 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78709
+#EXTINF:-1,MY DIRTY HOBBY 5 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78710
+#EXTINF:-1,XY Mix HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78711
+#EXTINF:-1,XY Max HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78712
+#EXTINF:-1,Oldtimer ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78713
+#EXTINF:-1,O LA LA ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78714
+#EXTINF:-1,NUART ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78715
+#EXTINF:-1,RUSSKAYA NOCH ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78716
+#EXTINF:-1,Extasy HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78717
+#EXTINF:-1,CANDY TV ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78718
+#EXTINF:-1,PinkX ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78719
+#EXTINF:-1,Shalun FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78720
+#EXTINF:-1,Babes TV FHD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78721
+#EXTINF:-1,Super One HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78722
+#EXTINF:-1,OX-AX HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78723
+#EXTINF:-1,iFlixPorn3D TV HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78724
+#EXTINF:-1,iFlixAmateur TV HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78725
+#EXTINF:-1,iFlixAsian TV HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78726
+#EXTINF:-1,iFlixBlonde TV HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78727
+#EXTINF:-1,iFlixGroup TV HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78728
+#EXTINF:-1,iFlixHardcore TV HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78729
+#EXTINF:-1,iFlixLatina TV HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78730
+#EXTINF:-1,iFlixLesbian TV HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78731
+#EXTINF:-1,iFlixMilf TV HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78732
+#EXTINF:-1,iFlixPornStars TV HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78733
+#EXTINF:-1,iFlixTeen TV HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78734
+#EXTINF:-1,Bunga Bunga ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78735
+#EXTINF:-1,Super Adult 1 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78736
+#EXTINF:-1,Super Adult 2 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78737
+#EXTINF:-1,Super Adult 4 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78738
+#EXTINF:-1,ALBA XXX HD1 ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78739
+#EXTINF:-1,ALBA XXX HD2 ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78740
+#EXTINF:-1,X-MO ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78741
+#EXTINF:-1,Max Adults 1 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78742
+#EXTINF:-1,Max Adults 2 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78743
+#EXTINF:-1,Super Adult 3 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78744
+#EXTINF:-1,Super Adult 5 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78745
+#EXTINF:-1,Super Adult 6 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78746
+#EXTINF:-1,Super Adult 7 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78747
+#EXTINF:-1,Super Adult 8 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78748
+#EXTINF:-1,Super Adult 9 HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78749
+#EXTINF:-1,Super Adult Erotic HD ADULT
+http://energyiptv.streamtv.to:8080/SpeJlTjF5X/LE6Wd7uBi3/78750
