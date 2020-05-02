@@ -1,399 +1,87 @@
 #EXTM3U
-#EXTINF:-1,RO: Acum TV
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/191.m3u8
-#EXTINF:-1,RO: Alfa Media TV
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/192.m3u8
-#EXTINF:-1,RO: PRO TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16757.m3u8
-#EXTINF:-1,PRO TV FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16758.m3u8
-#EXTINF:-1,ANTENA 1 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16759.m3u8
-#EXTINF:-1,ANTENA 1 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16760.m3u8
-#EXTINF:-1,KANAL D SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16761.m3u8
-#EXTINF:-1,KANAL D FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16762.m3u8
-#EXTINF:-1,ANTENA 3 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16763.m3u8
-#EXTINF:-1,ANTENA 3 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16764.m3u8
-#EXTINF:-1,ANTENA STARS SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16765.m3u8
-#EXTINF:-1,ANTENA STARS FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16766.m3u8
-#EXTINF:-1,PRO 2 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16767.m3u8
-#EXTINF:-1,PRO 2 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16768.m3u8
-#EXTINF:-1,PRO X SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16769.m3u8
-#EXTINF:-1,PRO X FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16770.m3u8
-#EXTINF:-1,PRO GOLD SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16771.m3u8
-#EXTINF:-1,PRO CINEMA SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16772.m3u8
-#EXTINF:-1,PRIMA TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16773.m3u8
-#EXTINF:-1,B1 TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16774.m3u8
-#EXTINF:-1,N 24 PLUS SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16775.m3u8
-#EXTINF:-1,DIGI 24 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16776.m3u8
-#EXTINF:-1,DIGI 24 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16777.m3u8
-#EXTINF:-1,ROMANIA TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16778.m3u8
-#EXTINF:-1,REALITATEA TV PLUS SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16779.m3u8
-#EXTINF:-1,NATIONAL TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16780.m3u8
-#EXTINF:-1,TVR INTERNATIONAL SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16781.m3u8
-#EXTINF:-1,TVR 1 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16782.m3u8
-#EXTINF:-1,TVR 2 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16783.m3u8
-#EXTINF:-1,TVR 3 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16784.m3u8
-#EXTINF:-1,TVR FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16785.m3u8
-#EXTINF:-1,AXN WHITE SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16786.m3u8
-#EXTINF:-1,AXN SPIN SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16787.m3u8
-#EXTINF:-1,AXN SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16788.m3u8
-#EXTINF:-1,AXN FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16789.m3u8
-#EXTINF:-1,AXN BLACK SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16790.m3u8
-#EXTINF:-1,HBO FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16791.m3u8
-#EXTINF:-1,HBO 2 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16792.m3u8
-#EXTINF:-1,HBO 3 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16793.m3u8
-#EXTINF:-1,AMC
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16794.m3u8
-#EXTINF:-1,TV1000 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16795.m3u8
-#EXTINF:-1,CINEMAX 2 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16796.m3u8
-#EXTINF:-1,CINEMAX 1 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16797.m3u8
-#EXTINF:-1,FilmBox Premium
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16798.m3u8
-#EXTINF:-1,FilmBox Family
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16799.m3u8
-#EXTINF:-1,FilmBox Extra HD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16800.m3u8
-#EXTINF:-1,FilmBox
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16801.m3u8
-#EXTINF:-1,Fight Box
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16802.m3u8
-#EXTINF:-1,CINEMARATON SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16803.m3u8
-#EXTINF:-1,CINEMARATON FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16804.m3u8
-#EXTINF:-1,FILM NOW FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16805.m3u8
-#EXTINF:-1,HAPPY CHANNEL SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16806.m3u8
-#EXTINF:-1,HAPPY CHANNEL FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16807.m3u8
-#EXTINF:-1,EPIC DRAMA SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16808.m3u8
-#EXTINF:-1,BOLLYWOOD TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16809.m3u8
-#EXTINF:-1,FILM CAFE SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16810.m3u8
-#EXTINF:-1,EPIC DRAMA FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16811.m3u8
-#EXTINF:-1,COMEDYEST SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16812.m3u8
-#EXTINF:-1,COMEDY CENTRAL SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16813.m3u8
-#EXTINF:-1,CINETHRONIX SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16814.m3u8
-#EXTINF:-1,TNT SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16815.m3u8
-#EXTINF:-1,TLC SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16816.m3u8
-#EXTINF:-1,TELEKOM SPORT 1 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16817.m3u8
-#EXTINF:-1,TELEKOM SPORT 2 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16818.m3u8
-#EXTINF:-1,TELEKOM SPORT 3 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16819.m3u8
-#EXTINF:-1,TELEKOM SPORT 4 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16820.m3u8
-#EXTINF:-1,EUROSPORT 1 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16821.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16822.m3u8
-#EXTINF:-1,EUROSPORT 2 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16823.m3u8
-#EXTINF:-1,EUROSPORT 2 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16824.m3u8
-#EXTINF:-1,LOOK SPORT SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16825.m3u8
-#EXTINF:-1,LOOK SPORT FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16826.m3u8
-#EXTINF:-1,DIGI SPORT 1 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16827.m3u8
-#EXTINF:-1,DIGI SPORT 1 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16828.m3u8
-#EXTINF:-1,DIGI SPORT 2 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16829.m3u8
-#EXTINF:-1,DIGI SPORT 2 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16830.m3u8
-#EXTINF:-1,DIGI SPORT 3 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16831.m3u8
-#EXTINF:-1,DIGI SPORT 3 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16832.m3u8
-#EXTINF:-1,DIGI SPORT 4 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16833.m3u8
-#EXTINF:-1,DIGI SPORT 4 FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16834.m3u8
-#EXTINF:-1,LOOK PLUS SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16835.m3u8
-#EXTINF:-1,DUCK TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16836.m3u8
-#EXTINF:-1,NICKTOONS SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16837.m3u8
-#EXTINF:-1,NICKELODEON SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16838.m3u8
-#EXTINF:-1,NICK JR SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16839.m3u8
-#EXTINF:-1,DISNEY JUNIOR SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16840.m3u8
-#EXTINF:-1,DISNEY CHANNEL SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16841.m3u8
-#EXTINF:-1,BOOMERANG SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16842.m3u8
-#EXTINF:-1,Nick Toons
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16843.m3u8
-#EXTINF:-1,MINIMAX SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16844.m3u8
-#EXTINF:-1,MEGAMAX SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16845.m3u8
-#EXTINF:-1,Jim Jam
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16846.m3u8
-#EXTINF:-1,CARTOON NETWORK SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16847.m3u8
-#EXTINF:-1,TARAF TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16848.m3u8
-#EXTINF:-1,ZU TV FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16849.m3u8
-#EXTINF:-1,VH1 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16850.m3u8
-#EXTINF:-1,UTV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16851.m3u8
-#EXTINF:-1,UTV FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16852.m3u8
-#EXTINF:-1,MUSIC CHANNEL SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16853.m3u8
-#EXTINF:-1,HIT MUSIC CHANNEL SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16854.m3u8
-#EXTINF:-1,First Music
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16855.m3u8
-#EXTINF:-1,First Music FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16856.m3u8
-#EXTINF:-1,First Music 4k
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16857.m3u8
-#EXTINF:-1,VH1 Classic
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16858.m3u8
-#EXTINF:-1,BusuiocTV
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16859.m3u8
-#EXTINF:-1,MTV Europe
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16860.m3u8
-#EXTINF:-1,MTV ROCKS SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16861.m3u8
-#EXTINF:-1,MTV Hits
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16862.m3u8
-#EXTINF:-1,MTV Dance
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16863.m3u8
-#EXTINF:-1,Mooz RO!
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16864.m3u8
-#EXTINF:-1,Mooz Dance
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16865.m3u8
-#EXTINF:-1,MTV LIVE FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16866.m3u8
-#EXTINF:-1,ROCK TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16867.m3u8
-#EXTINF:-1,MOOZ FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16868.m3u8
-#EXTINF:-1,KronehitTV FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16869.m3u8
-#EXTINF:-1,KISS TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16870.m3u8
-#EXTINF:-1,HORA TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16871.m3u8
-#EXTINF:-1,FAVORIT TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16872.m3u8
-#EXTINF:-1,ETNO TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16873.m3u8
-#EXTINF:-1,BBC EARTH FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16874.m3u8
-#EXTINF:-1,VIASAT NATURE FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16875.m3u8
-#EXTINF:-1,VIASAT HISTORY SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16876.m3u8
-#EXTINF:-1,VIASAT HISTORY FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16877.m3u8
-#EXTINF:-1,VIASAT EXPLORE SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16878.m3u8
-#EXTINF:-1,HISTORY CHANNEL FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16879.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16880.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16881.m3u8
-#EXTINF:-1,DTX
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16882.m3u8
-#EXTINF:-1,CNN
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16883.m3u8
-#EXTINF:-1,Travel MIX FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16884.m3u8
-#EXTINF:-1,FINE LIVING
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16885.m3u8
-#EXTINF:-1,NAT GEO WILD SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16886.m3u8
-#EXTINF:-1,Crime & Investigation
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16887.m3u8
-#EXTINF:-1,NAT GEO WILD FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16888.m3u8
-#EXTINF:-1,E! ENTERTAINMENT SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16889.m3u8
-#EXTINF:-1,E! ENTERTAINMENT FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16890.m3u8
-#EXTINF:-1,DISCOVERY TURBO XTRA FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16891.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16892.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16893.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16894.m3u8
-#EXTINF:-1,TRAVEL MIX SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16895.m3u8
-#EXTINF:-1,TRAVEL CHANNEL SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16896.m3u8
-#EXTINF:-1,CBS Reality
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16897.m3u8
-#EXTINF:-1,TRAVEL CHANNEL FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16898.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16899.m3u8
-#EXTINF:-1,FISHING AND HUNTING SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16900.m3u8
-#EXTINF:-1,DIGI LIFE SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16901.m3u8
-#EXTINF:-1,FASHION TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16902.m3u8
-#EXTINF:-1,DIGI WORLD SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16903.m3u8
-#EXTINF:-1,DIGI WORLD FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16904.m3u8
-#EXTINF:-1,DIVA CHANNEL SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16905.m3u8
-#EXTINF:-1,BBC EARTH SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16906.m3u8
-#EXTINF:-1,ANIMAL PLANET FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16907.m3u8
-#EXTINF:-1,DIGI LIFE FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16908.m3u8
-#EXTINF:-1,DIGI ANIMAL WORLD SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16909.m3u8
-#EXTINF:-1,DIGI ANIMAL WORLD FHD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16910.m3u8
-#EXTINF:-1,DA VINCI LEARNING SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16911.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16912.m3u8
-#EXTINF:-1,TRINITAS TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16913.m3u8
-#EXTINF:-1,ALPHA MEDIA SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16914.m3u8
-#EXTINF:-1,ALFA OMEGA SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16915.m3u8
-#EXTINF:-1,SPERANTA TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16916.m3u8
-#EXTINF:-1,CREDO TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16917.m3u8
-#EXTINF:-1,SOMAX TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16918.m3u8
-#EXTINF:-1,VP SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16919.m3u8
-#EXTINF:-1,NASUL TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16920.m3u8
-#EXTINF:-1,AGRO TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16921.m3u8
-#EXTINF:-1,TVR International
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16922.m3u8
-#EXTINF:-1,Rapsodia Tv
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16923.m3u8
-#EXTINF:-1,PopasTV
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16924.m3u8
-#EXTINF:-1,NorocTV
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16925.m3u8
-#EXTINF:-1,Look Plus
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16926.m3u8
-#EXTINF:-1,GurinelTV
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16927.m3u8
-#EXTINF:-1,TELESTAR1 SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16928.m3u8
-#EXTINF:-1,TV NEPTUN SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16929.m3u8
-#EXTINF:-1,TELE MOLDOVA PLUS SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16930.m3u8
-#EXTINF:-1,TV PAPRIKA SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16931.m3u8
-#EXTINF:-1,Stirile ProTV
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16932.m3u8
-#EXTINF:-1,SANGEORZ TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16933.m3u8
-#EXTINF:-1,S TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16934.m3u8
-#EXTINF:-1,PROFIT TV RO SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16935.m3u8
-#EXTINF:-1,TELE M IASI
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16936.m3u8
-#EXTINF:-1,TV SUD EST SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16937.m3u8
-#EXTINF:-1,NEST TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16938.m3u8
-#EXTINF:-1,NCN SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16939.m3u8
-#EXTINF:-1,MAGIC TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16940.m3u8
-#EXTINF:-1,MEDIKA TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16941.m3u8
-#EXTINF:-1,INFORMATIA TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16943.m3u8
-#EXTINF:-1,IASI TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16944.m3u8
-#EXTINF:-1,CROMTEL TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16945.m3u8
-#EXTINF:-1,BUCURESTI TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16946.m3u8
-#EXTINF:-1,BUCOVINA TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16947.m3u8
-#EXTINF:-1,BIT TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16948.m3u8
-#EXTINF:-1,ANTENA MONDEN SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16949.m3u8
-#EXTINF:-1,ANTENA COOK&PLAY SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16950.m3u8
-#EXTINF:-1,ANTENA COMEDY PLAY SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16951.m3u8
-#EXTINF:-1,ACUM TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16952.m3u8
-#EXTINF:-1,6TV SD
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16953.m3u8
-#EXTINF:-1,Acasa TV
-http://4kiptv.top:25461/live/pXE6plswg1/1sWoC3GO8z/16954.m3u8
+#EXTINF:-1 tvg-name="****************** Rumänien ***********" tvg-id="" group-title="" tvg-logo="",***************** Rumänien ***********
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUzHpez.png" group-title="RUMÄNIEN",6TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EWwJuPK.png" group-title="RUMÄNIEN",Actualitatea TV
+http://webmobile.xdev.ro:81/tv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6PCCvYh.png" group-title="RUMÄNIEN",Acum TV
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4rcHoe.png" group-title="RUMÄNIEN",Agro TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/dmdcwC6.png" group-title="RUMÄNIEN",Alfa Media TV
+http://webmobile.xdev.ro:81/tv27/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pkUjse7.png" group-title="RUMÄNIEN",Alfa Omega TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9rVYvwg.png" group-title="RUMÄNIEN",Antena 1
+https://sportbar.biz/lba/123/g9/antena1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VQqgkzw.jpg" group-title="RUMÄNIEN",B1
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eiBj5Zy.png" group-title="RUMÄNIEN",Bit TV Pascani
+http://46.214.146.46:81/tv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d8mJYu0.png" group-title="RUMÄNIEN",Bollywood TV Romania
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/8G83qZu.png" group-title="RUMÄNIEN",Bollywood Classic Romania
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tNRAX0.png" group-title="RUMÄNIEN",Canal 33
+https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/chunklist_w1456597134_b680000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kNNRmS1.png" group-title="RUMÄNIEN",Cromtel TV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k4TQOHi.png" group-title="RUMÄNIEN",Digi 24
+http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g6BtErH.png" group-title="RUMÄNIEN",Erdely TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PTsws8f.png" group-title="RUMÄNIEN",Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rjGbznr.png" group-title="RUMÄNIEN",Inedit TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MwADEV2.png" group-title="RUMÄNIEN",Kapital TV
+http://163.172.172.80:8080/hls/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a5euWt1.png" group-title="RUMÄNIEN",Mooz HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/18.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7q7gu4n.png" group-title="RUMÄNIEN",Mooz Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3YkqXn.png" group-title="RUMÄNIEN",Mooz Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0QTjHHD.png" group-title="RUMÄNIEN",Mooz Ro!
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aL6Mf8b.png" group-title="RUMÄNIEN",NEst TV
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWM790Y.png" group-title="RUMÄNIEN",Pro TV News
+http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWrneym.png" group-title="RUMÄNIEN",Profit
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ae1Klb2.png" group-title="RUMÄNIEN",Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6e9Q5xV.jpg" group-title="RUMÄNIEN",Romania TV
+http://ppext.arktv.ro/hls/channel6/adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFE5PUx.png" group-title="RUMÄNIEN",Sangeorz TV
+http://s2.streamnet.ro:8035/stream.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3LdXQxm.png" group-title="RUMÄNIEN",Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="RUMÄNIEN",Stars
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1WmDXf.png" group-title="RUMÄNIEN",Stars Direct
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RfyWxRO.png" group-title="RUMÄNIEN",Tezaur TV
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tnpqF6Y.png" group-title="RUMÄNIEN",TV City
+http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSilDzX.png" group-title="RUMÄNIEN",TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ouVOW2q.png" group-title="RUMÄNIEN",TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SMot2PE.png" group-title="RUMÄNIEN",TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dobeeMs.png" group-title="RUMÄNIEN",TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="RUMÄNIEN",TVR Cluj
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="RUMÄNIEN",TVR Craiova
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="RUMÄNIEN",TVR Iasi
+http://82.208.151.107:8088/high/tvriasi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zFYfPjp.png" group-title="RUMÄNIEN",TVR Timisoara
+http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KGLHMyB.png" group-title="RUMÄNIEN",UTV
+http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
